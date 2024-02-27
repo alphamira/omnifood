@@ -1,0 +1,27 @@
+*.{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+a.{
+    text-decoration:none ;
+}
+header{
+    justify-content: space-between;
+    padding: 20px 40px ;
+
+}
+header .logo{
+    width: 150px;
+}
+header .logo img{
+    width: 100px;
+}
+.hamburger{
+    display: none;
+
+}
+.flex-container .nav-menu{
+    display: flex;
+    
+}
